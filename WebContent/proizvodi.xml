@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_66" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="modeli.Proizvod">
+    <void property="boja">
+     <string>crna</string>
+    </void>
+    <void property="dimenzija">
+     <string>50</string>
+    </void>
+    <void property="jedinicnaCena">
+     <string>2500</string>
+    </void>
+    <void property="kategorijaProizvoda">
+     <string>Ruteri</string>
+    </void>
+    <void property="kolicinaUMagacinu">
+     <string>10</string>
+    </void>
+    <void property="naziv">
+     <string>Cisco 800 Series Integrated Services Routers</string>
+    </void>
+    <void property="nazivProizvodjaca">
+     <string>Cisco</string>
+    </void>
+    <void property="opis">
+     <string>Ruter najnapredniji!</string>
+    </void>
+    <void property="prodavnica">
+     <string>jioerg85q</string>
+    </void>
+    <void property="sifra">
+     <string>yugu23yg</string>
+    </void>
+    <void property="slika">
+     <string>1438679833993.jpg</string>
+    </void>
+    <void property="tezina">
+     <string>0.5</string>
+    </void>
+    <void property="zemljaProizvodnje">
+     <string>Austrija</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modeli.Proizvod">
+    <void property="boja">
+     <string>siva</string>
+    </void>
+    <void property="dimenzija">
+     <string>100</string>
+    </void>
+    <void property="jedinicnaCena">
+     <string>100</string>
+    </void>
+    <void property="kategorijaProizvoda">
+     <string>Ruteri</string>
+    </void>
+    <void property="kolicinaUMagacinu">
+     <string>45</string>
+    </void>
+    <void property="naziv">
+     <string>Cisco 7200 Series Routers EoS</string>
+    </void>
+    <void property="nazivProizvodjaca">
+     <string>Cisco</string>
+    </void>
+    <void property="opis">
+     <string>Neophodnost svakog data centra.</string>
+    </void>
+    <void property="prodavnica">
+     <string>jioerg85q</string>
+    </void>
+    <void property="sifra">
+     <string>afafw43</string>
+    </void>
+    <void property="slika">
+     <string>prod_large_photo0900aecd8031b4d9.jpg</string>
+    </void>
+    <void property="tezina">
+     <string>10</string>
+    </void>
+    <void property="zemljaProizvodnje">
+     <string>Austrija</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modeli.Proizvod">
+    <void property="boja">
+     <string>crvena</string>
+    </void>
+    <void property="dimenzija">
+     <string>25</string>
+    </void>
+    <void property="jedinicnaCena">
+     <string>55</string>
+    </void>
+    <void property="kategorijaProizvoda">
+     <string>Slano</string>
+    </void>
+    <void property="kolicinaUMagacinu">
+     <string>500</string>
+    </void>
+    <void property="naziv">
+     <string>Smoki </string>
+    </void>
+    <void property="nazivProizvodjaca">
+     <string>Stark</string>
+    </void>
+    <void property="opis">
+     <string>Hrskav zalogaj za razonodu!</string>
+    </void>
+    <void property="prodavnica">
+     <string>mqioqw51</string>
+    </void>
+    <void property="sifra">
+     <string>eeef</string>
+    </void>
+    <void property="slika">
+     <string>smoki-40g-i-130g.jpg</string>
+    </void>
+    <void property="tezina">
+     <string>0.5</string>
+    </void>
+    <void property="zemljaProizvodnje">
+     <string>Srbija</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modeli.Proizvod">
+    <void property="boja">
+     <string>bela</string>
+    </void>
+    <void property="dimenzija">
+     <string>10</string>
+    </void>
+    <void property="jedinicnaCena">
+     <string>25</string>
+    </void>
+    <void property="kategorijaProizvoda">
+     <string>Mlecni proizvodi</string>
+    </void>
+    <void property="kolicinaUMagacinu">
+     <string>420</string>
+    </void>
+    <void property="naziv">
+     <string>Jogurt</string>
+    </void>
+    <void property="nazivProizvodjaca">
+     <string>Zbregov</string>
+    </void>
+    <void property="opis">
+     <string>Zapocnite svako jutro sa mlecnim, bozanstvenim gutljajima.</string>
+    </void>
+    <void property="prodavnica">
+     <string>mqioqw51</string>
+    </void>
+    <void property="sifra">
+     <string>eqfeq23</string>
+    </void>
+    <void property="slika">
+     <string>jogurti-natur-cvrsti-200g.jpg</string>
+    </void>
+    <void property="tezina">
+     <string>0.75</string>
+    </void>
+    <void property="zemljaProizvodnje">
+     <string>Hrvatska</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modeli.Proizvod">
+    <void property="boja">
+     <string>braon</string>
+    </void>
+    <void property="dimenzija">
+     <string>10</string>
+    </void>
+    <void property="jedinicnaCena">
+     <string>250</string>
+    </void>
+    <void property="kategorijaProizvoda">
+     <string>Slatko</string>
+    </void>
+    <void property="kolicinaUMagacinu">
+     <string>120</string>
+    </void>
+    <void property="naziv">
+     <string>Nutella</string>
+    </void>
+    <void property="nazivProizvodjaca">
+     <string>Ferrero</string>
+    </void>
+    <void property="opis">
+     <string>Cokoladni-nugat krem. Najbolji. Jedini.</string>
+    </void>
+    <void property="prodavnica">
+     <string>mqioqw51</string>
+    </void>
+    <void property="sifra">
+     <string>igyu676</string>
+    </void>
+    <void property="slika">
+     <string>slide_332297_3299258_free.jpg</string>
+    </void>
+    <void property="tezina">
+     <string>0.25</string>
+    </void>
+    <void property="zemljaProizvodnje">
+     <string>Nemacka</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modeli.Proizvod">
+    <void property="boja">
+     <string>siva</string>
+    </void>
+    <void property="dimenzija">
+     <string>45</string>
+    </void>
+    <void property="jedinicnaCena">
+     <string>24500</string>
+    </void>
+    <void property="kategorijaProizvoda">
+     <string>Monitori</string>
+    </void>
+    <void property="kolicinaUMagacinu">
+     <string>12</string>
+    </void>
+    <void property="naziv">
+     <string>HP Pavilion SuperSize</string>
+    </void>
+    <void property="nazivProizvodjaca">
+     <string>HP</string>
+    </void>
+    <void property="opis">
+     <string>Najbolji kvalitet full hd.</string>
+    </void>
+    <void property="prodavnica">
+     <string>jioerg85q</string>
+    </void>
+    <void property="sifra">
+     <string>ve4g4gh23</string>
+    </void>
+    <void property="slika">
+     <string>5029700_rd.jpg</string>
+    </void>
+    <void property="tezina">
+     <string>2</string>
+    </void>
+    <void property="zemljaProizvodnje">
+     <string>Kina</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modeli.Proizvod">
+    <void property="boja">
+     <string>plava</string>
+    </void>
+    <void property="dimenzija">
+     <string>20</string>
+    </void>
+    <void property="jedinicnaCena">
+     <string>65</string>
+    </void>
+    <void property="kategorijaProizvoda">
+     <string>Slano</string>
+    </void>
+    <void property="kolicinaUMagacinu">
+     <string>845</string>
+    </void>
+    <void property="naziv">
+     <string>Chipsy Thatziki</string>
+    </void>
+    <void property="nazivProizvodjaca">
+     <string>Marbo</string>
+    </void>
+    <void property="opis">
+     <string>Ukusni zalogaj za svaku pauzu.</string>
+    </void>
+    <void property="prodavnica">
+     <string>mqioqw51</string>
+    </void>
+    <void property="sifra">
+     <string>klj54u</string>
+    </void>
+    <void property="slika">
+     <string>pro_v_0090513.jpg</string>
+    </void>
+    <void property="tezina">
+     <string>0.5</string>
+    </void>
+    <void property="zemljaProizvodnje">
+     <string>Srbija</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modeli.Proizvod">
+    <void property="boja">
+     <string>zlatna</string>
+    </void>
+    <void property="dimenzija">
+     <string>10</string>
+    </void>
+    <void property="jedinicnaCena">
+     <string>60</string>
+    </void>
+    <void property="kategorijaProizvoda">
+     <string>Slatko</string>
+    </void>
+    <void property="kolicinaUMagacinu">
+     <string>545</string>
+    </void>
+    <void property="naziv">
+     <string>Twix</string>
+    </void>
+    <void property="nazivProizvodjaca">
+     <string>Stiki</string>
+    </void>
+    <void property="opis">
+     <string>Twixujmo zajedno</string>
+    </void>
+    <void property="prodavnica">
+     <string>mqioqw51</string>
+    </void>
+    <void property="sifra">
+     <string>v54h6</string>
+    </void>
+    <void property="slika">
+     <string>twix.jpeg</string>
+    </void>
+    <void property="tezina">
+     <string>0.25</string>
+    </void>
+    <void property="zemljaProizvodnje">
+     <string>Amerika</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modeli.Proizvod">
+    <void property="boja">
+     <string>braon</string>
+    </void>
+    <void property="dimenzija">
+     <string>10</string>
+    </void>
+    <void property="jedinicnaCena">
+     <string>455</string>
+    </void>
+    <void property="kategorijaProizvoda">
+     <string>Slatko</string>
+    </void>
+    <void property="kolicinaUMagacinu">
+     <string>24</string>
+    </void>
+    <void property="naziv">
+     <string>Snickers Ice Cream</string>
+    </void>
+    <void property="nazivProizvodjaca">
+     <string>Stiki</string>
+    </void>
+    <void property="opis">
+     <string>Savrsenstvo u jednoj posudi.</string>
+    </void>
+    <void property="prodavnica">
+     <string>mqioqw51</string>
+    </void>
+    <void property="sifra">
+     <string>rbrtbyyt</string>
+    </void>
+    <void property="slika">
+     <string>Snickers_Tub-500ml1.jpg</string>
+    </void>
+    <void property="tezina">
+     <string>0.5</string>
+    </void>
+    <void property="zemljaProizvodnje">
+     <string>Amerika</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

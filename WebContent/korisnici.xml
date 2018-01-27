@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_66" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>animo</string>
+   <object class="modeli.Korisnik">
+    <void property="adresa">
+     <string>Bulevar Druga Tita</string>
+    </void>
+    <void property="drzava">
+     <string>Srbija</string>
+    </void>
+    <void property="email">
+     <string>dukica@gmail.com</string>
+    </void>
+    <void property="ime">
+     <string>Dusan</string>
+    </void>
+    <void property="korisnickoIme">
+     <string>animo</string>
+    </void>
+    <void property="lozinka">
+     <string>animo</string>
+    </void>
+    <void property="prezime">
+     <string>Jeftic</string>
+    </void>
+    <void property="telefon">
+     <string>300003</string>
+    </void>
+    <void property="uloga">
+     <string>administrator</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>ralesbb</string>
+   <object class="modeli.Korisnik">
+    <void property="adresa">
+     <string>Ruterska 74</string>
+    </void>
+    <void property="drzava">
+     <string>Crna Gora</string>
+    </void>
+    <void property="email">
+     <string>rale@hotmail.com</string>
+    </void>
+    <void property="ime">
+     <string>Radomir</string>
+    </void>
+    <void property="korisnickoIme">
+     <string>ralesbb</string>
+    </void>
+    <void property="lozinka">
+     <string>ruter91</string>
+    </void>
+    <void property="prezime">
+     <string>Sebovic</string>
+    </void>
+    <void property="telefon">
+     <string>061212313</string>
+    </void>
+    <void property="uloga">
+     <string>prodavac</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>matko007</string>
+   <object class="modeli.Korisnik">
+    <void property="adresa">
+     <string>Bulevar Mesnatih Proizvoda 77</string>
+    </void>
+    <void property="drzava">
+     <string>Srbija</string>
+    </void>
+    <void property="email">
+     <string>matijevic@gmail.com</string>
+    </void>
+    <void property="ime">
+     <string>Nikola</string>
+    </void>
+    <void property="korisnickoIme">
+     <string>matko007</string>
+    </void>
+    <void property="lozinka">
+     <string>salama</string>
+    </void>
+    <void property="prezime">
+     <string>Matijevic</string>
+    </void>
+    <void property="telefon">
+     <string>065777888</string>
+    </void>
+    <void property="uloga">
+     <string>prodavac</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>makimaki</string>
+   <object class="modeli.Korisnik">
+    <void property="adresa">
+     <string>Bul Streberskih Domova 66</string>
+    </void>
+    <void property="drzava">
+     <string>Srbija</string>
+    </void>
+    <void property="email">
+     <string>maki@gmail.com</string>
+    </void>
+    <void property="ime">
+     <string>Marko</string>
+    </void>
+    <void property="korisnickoIme">
+     <string>makimaki</string>
+    </void>
+    <void property="lozinka">
+     <string>makica</string>
+    </void>
+    <void property="prezime">
+     <string>Jelicic</string>
+    </void>
+    <void property="telefon">
+     <string>060500600</string>
+    </void>
+    <void property="uloga">
+     <string>kupac</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>micinn</string>
+   <object class="modeli.Korisnik">
+    <void property="adresa">
+     <string>Ilidzina 66</string>
+    </void>
+    <void property="drzava">
+     <string>Srbija</string>
+    </void>
+    <void property="email">
+     <string>micann94@gmail.com</string>
+    </void>
+    <void property="ime">
+     <string>Milca</string>
+    </void>
+    <void property="korisnickoIme">
+     <string>micinn</string>
+    </void>
+    <void property="lozinka">
+     <string>princeza</string>
+    </void>
+    <void property="prezime">
+     <string>Kapetna</string>
+    </void>
+    <void property="telefon">
+     <string>060522600</string>
+    </void>
+    <void property="uloga">
+     <string>kupac</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>maksi77</string>
+   <object class="modeli.Korisnik">
+    <void property="adresa">
+     <string>Bajiceva 99</string>
+    </void>
+    <void property="drzava">
+     <string>Srbija</string>
+    </void>
+    <void property="email">
+     <string>maksica@gmail.com</string>
+    </void>
+    <void property="ime">
+     <string>Maksim</string>
+    </void>
+    <void property="korisnickoIme">
+     <string>maksi77</string>
+    </void>
+    <void property="lozinka">
+     <string>biljabilja</string>
+    </void>
+    <void property="prezime">
+     <string>Biljanic</string>
+    </void>
+    <void property="telefon">
+     <string>069777444</string>
+    </void>
+    <void property="uloga">
+     <string>prodavac</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

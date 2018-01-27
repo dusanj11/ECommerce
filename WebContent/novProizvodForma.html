@@ -1,0 +1,55 @@
+<table id="tabelaNovaProdavnica">
+			<tr>
+				<td>Naziv: </td>
+				<td> <input type="text" name="name" id="name" /></td>
+			</tr>
+			<tr>
+				<td>Sifra:</td>
+				<td><input type="text" name="productId"  id="productId" /></td>
+			</tr>
+			<tr>
+				<td>Boja:</td>
+				<td><input type="text" name="color"  id="color" /></td>
+			</tr>
+			<tr>
+				<td>Dimenzija(samo najduza dimenzija u cm):</td>
+				<td><input type="text" name="dimension"  id="dimension" /></td>
+			</tr>
+			<tr>
+				<td>Tezina(kg):</td>
+				<td><input type="text" name="weight"  id="weight" /></td>
+			</tr>
+			<tr>
+				<td>Zemlja proizvodnje:</td>
+				<td><input type="text" name="madeBy"  id="madeBy" /></td>
+			</tr>
+			<tr>
+				<td>Naziv proizvodjaca:</td>
+				<td><input type="text" name="makerName"  id="makerName" /></td>
+			</tr>
+			<tr>
+				<td>Cena(rsd):</td>
+				<td><input type="text" name="price"  id="price" /></td>
+			</tr>
+			<tr>
+				<td>Kategorija:</td>
+				<td><select  name="prodavac"  id="categorySelect" ></select></td>
+			</tr>
+			<tr>
+				<td>Opis:</td>
+				<td><input type="text" name="description"  id="description" /></td>
+			</tr>
+			<tr>
+				<td>Kolicina u magacinu:</td>
+				<td><input type="text" name="amount"  id="amount" /></td>
+			</tr>
+			<tr id="redSlika">
+				<td>Slika proizvoda:</td>
+				<td><label id="pictureLabel" for="file-upload" class="custom-file-upload"></label>
+				<input type="file" name="file-upload"  id="picture" accept="image/*" /></td>
+			</tr>
+			<tr id="dugme">
+				<td><button  id="addProduct" class="btn btn-primary btn-lg"  name="newProduct"  style="width: 181px;  ">
+				<span id="ikonica" class="glyphicon glyphicon-plus-sign" aria-hidden="true"></span>Dodaj </button></td>
+			</tr>
+</table>

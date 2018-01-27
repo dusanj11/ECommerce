@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_66" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="modeli.Dostavljaci">
+    <void property="drzavePoslovanja">
+     <string>Srbija</string>
+    </void>
+    <void property="malaTarifa">
+     <string>250</string>
+    </void>
+    <void property="naziv">
+     <string>FEDex</string>
+    </void>
+    <void property="opis">
+     <string>Dostavljacka kuca najboljeg kvaliteta i pouzdane usluge!</string>
+    </void>
+    <void property="sifra">
+     <string>fert467</string>
+    </void>
+    <void property="srednjaTarifa">
+     <string>500</string>
+    </void>
+    <void property="velikaTarifa">
+     <string>1500</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modeli.Dostavljaci">
+    <void property="drzavePoslovanja">
+     <string>Crna Gora</string>
+    </void>
+    <void property="malaTarifa">
+     <string>500</string>
+    </void>
+    <void property="naziv">
+     <string>Gorski METAK</string>
+    </void>
+    <void property="opis">
+     <string>Pouzdane usluge, sa brzinskim dostavama!</string>
+    </void>
+    <void property="sifra">
+     <string>byduv45</string>
+    </void>
+    <void property="srednjaTarifa">
+     <string>1500</string>
+    </void>
+    <void property="velikaTarifa">
+     <string>2500</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modeli.Dostavljaci">
+    <void property="drzavePoslovanja">
+     <string>Srbija</string>
+    </void>
+    <void property="malaTarifa">
+     <string>150</string>
+    </void>
+    <void property="naziv">
+     <string>NISexpress</string>
+    </void>
+    <void property="opis">
+     <string>Expresna dostava! Najbolje usluge!</string>
+    </void>
+    <void property="sifra">
+     <string>ugeuu45</string>
+    </void>
+    <void property="srednjaTarifa">
+     <string>750</string>
+    </void>
+    <void property="velikaTarifa">
+     <string>2000</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

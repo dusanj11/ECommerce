@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_66" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="modeli.Prodavnica">
+    <void property="adresa">
+     <string>Bulevar Oslobodjenja 55</string>
+    </void>
+    <void property="drzava">
+     <string>Srbija</string>
+    </void>
+    <void property="email">
+     <string>sbb@sbb.com</string>
+    </void>
+    <void property="naziv">
+     <string>SBB elektrik</string>
+    </void>
+    <void property="odgovorniProdavac">
+     <string>ralesbb</string>
+    </void>
+    <void property="sifra">
+     <string>jioerg85q</string>
+    </void>
+    <void property="telefon">
+     <string>021447785</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modeli.Prodavnica">
+    <void property="adresa">
+     <string>Kisacka 22</string>
+    </void>
+    <void property="drzava">
+     <string>Crna Gora</string>
+    </void>
+    <void property="email">
+     <string>maksi@gmail.com</string>
+    </void>
+    <void property="naziv">
+     <string>MAXI</string>
+    </void>
+    <void property="odgovorniProdavac">
+     <string>maksi77</string>
+    </void>
+    <void property="sifra">
+     <string>mqioqw51</string>
+    </void>
+    <void property="telefon">
+     <string>02174859</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
